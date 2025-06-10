@@ -2,7 +2,8 @@
 ## Overview
 This project performs data analysis on Blinkit’s dataset using Power BI. The data is extracted from a CSV file and visualized to generate insights on sales, customer behavior, and product performance.
 ## Sample view
-![image](https://github.com/user-attachments/assets/d8697dda-7ac4-425e-a4f8-14294176f597)
+![Screenshot 2025-06-09 095811](https://github.com/user-attachments/assets/d903722e-9b25-40f6-b8cd-29bab9c498eb)
+
 
 
 ## Business Problem
